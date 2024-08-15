@@ -1,2 +1,1 @@
-You need install bs4, request.
-
+Just download .exe file and open it.
